@@ -1,2 +1,9 @@
-# Vrinda-Store-Sales-Analysis-Dashboard-in-Excel
-An interactive Excel dashboard for Vrinda Store that provides insights into customer behavior, sales trends, and regional performance. The dashboard helps identify key business drivers, track sales growth, and optimize decision-making with data-driven insights.
+# Vrinda-Store-Sales-Analysis-Dashboard (created using Ms Excel)
+## ## 📊 Dashboard Preview  
+
+<p align="center">
+  <img src="C:\Users\Dell\Desktop\Technical Courses\Navttc Courses\Power BI Course\Excel_Dashboards\Vrinda Store Analysis Dashboard.PNG" width="700" alt="Vrinda Store Dashboard Overview">
+</p>
+
+---
+
